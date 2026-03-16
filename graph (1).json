@@ -1,0 +1,836 @@
+{
+  "nodes": [
+    {
+      "id": "event_0",
+      "name": "Embauche et apprentissage de Gilles Hammon",
+      "type": "Event",
+      "description": "Gilles Hammon commence sa carrière à l'âge de 14 ans comme apprenti aux chantiers 'La Bretagne' à Nantes.",
+      "time": "Septembre 1958"
+    },
+    {
+      "id": "Gilles Hammon",
+      "name": "Gilles Hammon",
+      "type": "Person"
+    },
+    {
+      "id": "Nantes",
+      "name": "Nantes",
+      "type": "Place"
+    },
+    {
+      "id": "Chantier de la Bretagne",
+      "name": "Chantier de la Bretagne",
+      "type": "Place"
+    },
+    {
+      "id": "embauche",
+      "name": "embauche",
+      "type": "Keyword"
+    },
+    {
+      "id": "apprentissage",
+      "name": "apprentissage",
+      "type": "Keyword"
+    },
+    {
+      "id": "construction navale",
+      "name": "construction navale",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_1",
+      "name": "Installation et renforcement de la Grue Jaune",
+      "type": "Event",
+      "description": "Montage de la grue jaune sur le site. Vers 1974, des travaux de renforcement sont effectués sur son assise avec du béton pour augmenter sa capacité de charge.",
+      "time": "1958 - 1974"
+    },
+    {
+      "id": "Jean Penot",
+      "name": "Jean Penot",
+      "type": "Person"
+    },
+    {
+      "id": "Entreprise Montalev",
+      "name": "Entreprise Montalev",
+      "type": "Person"
+    },
+    {
+      "id": "Chantier de la Loire",
+      "name": "Chantier de la Loire",
+      "type": "Place"
+    },
+    {
+      "id": "Avenue Antonin-la-Bretagne",
+      "name": "Avenue Antonin-la-Bretagne",
+      "type": "Place"
+    },
+    {
+      "id": "grue jaune",
+      "name": "grue jaune",
+      "type": "Keyword"
+    },
+    {
+      "id": "engin de levage",
+      "name": "engin de levage",
+      "type": "Keyword"
+    },
+    {
+      "id": "renforcement",
+      "name": "renforcement",
+      "type": "Keyword"
+    },
+    {
+      "id": "béton",
+      "name": "béton",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_2",
+      "name": "Système de travail au temps et marchandage",
+      "type": "Event",
+      "description": "Organisation du travail basée sur le chronométrage des tâches, avec un système de primes (gallons) ou de malus financiers.",
+      "time": "Années 1950 - 1970"
+    },
+    {
+      "id": "Traceurs",
+      "name": "Traceurs",
+      "type": "Person"
+    },
+    {
+      "id": "Chefs de chantier",
+      "name": "Chefs de chantier",
+      "type": "Person"
+    },
+    {
+      "id": "Syndicats",
+      "name": "Syndicats",
+      "type": "Person"
+    },
+    {
+      "id": "Chantiers navals",
+      "name": "Chantiers navals",
+      "type": "Place"
+    },
+    {
+      "id": "Bureaux des pleurs",
+      "name": "Bureaux des pleurs",
+      "type": "Place"
+    },
+    {
+      "id": "chronométrage",
+      "name": "chronométrage",
+      "type": "Keyword"
+    },
+    {
+      "id": "marchandage",
+      "name": "marchandage",
+      "type": "Keyword"
+    },
+    {
+      "id": "syndicalisme",
+      "name": "syndicalisme",
+      "type": "Keyword"
+    },
+    {
+      "id": "productivité",
+      "name": "productivité",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_3",
+      "name": "Formation et évolution professionnelle vers le bureau d'études",
+      "type": "Event",
+      "description": "Promotion de Gilles Hammon qui devient dessinateur après une formation à l'IVET. Cette période marque aussi l'évolution technique du traçage (passage de l'échelle 1 au sol vers le traçage de précision au dixième sur table).",
+      "time": "Années 1960"
+    },
+    {
+      "id": "IVET",
+      "name": "IVET",
+      "type": "Place"
+    },
+    {
+      "id": "Bureaux d'études",
+      "name": "Bureaux d'études",
+      "type": "Place"
+    },
+    {
+      "id": "formation",
+      "name": "formation",
+      "type": "Keyword"
+    },
+    {
+      "id": "promotion",
+      "name": "promotion",
+      "type": "Keyword"
+    },
+    {
+      "id": "dessin technique",
+      "name": "dessin technique",
+      "type": "Keyword"
+    },
+    {
+      "id": "traçage",
+      "name": "traçage",
+      "type": "Keyword"
+    },
+    {
+      "id": "précision",
+      "name": "précision",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_4",
+      "name": "Fusion des chantiers nantais",
+      "type": "Event",
+      "description": "Regroupement des chantiers de la Bretagne et de la Loire pour former les Chantiers Dubigeon-Normandie.",
+      "time": "Années 1960 - 1970"
+    },
+    {
+      "id": "Chantiers Dubigeon",
+      "name": "Chantiers Dubigeon",
+      "type": "Person"
+    },
+    {
+      "id": "Chantenay",
+      "name": "Chantenay",
+      "type": "Place"
+    },
+    {
+      "id": "fusion",
+      "name": "fusion",
+      "type": "Keyword"
+    },
+    {
+      "id": "Dubigeon",
+      "name": "Dubigeon",
+      "type": "Keyword"
+    },
+    {
+      "id": "industrie navale",
+      "name": "industrie navale",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_5",
+      "name": "Accidents et incidents liés au levage",
+      "type": "Event",
+      "description": "Série d'incidents techniques : une chute de tôle évitée de peu, le soulèvement inquiétant du pied d'une grue noire, et un accident grave lors du retournement d'un bloc de navire dû à une soudure défaillante provoquant une surtension sur une grue.",
+      "time": "Années 1960 - 1970"
+    },
+    {
+      "id": "Grutiers",
+      "name": "Grutiers",
+      "type": "Person"
+    },
+    {
+      "id": "Élingueurs",
+      "name": "Élingueurs",
+      "type": "Person"
+    },
+    {
+      "id": "Atelier de traçage",
+      "name": "Atelier de traçage",
+      "type": "Place"
+    },
+    {
+      "id": "Quais",
+      "name": "Quais",
+      "type": "Place"
+    },
+    {
+      "id": "Chantier naval",
+      "name": "Chantier naval",
+      "type": "Place"
+    },
+    {
+      "id": "accident",
+      "name": "accident",
+      "type": "Keyword"
+    },
+    {
+      "id": "sécurité",
+      "name": "sécurité",
+      "type": "Keyword"
+    },
+    {
+      "id": "levage",
+      "name": "levage",
+      "type": "Keyword"
+    },
+    {
+      "id": "grue",
+      "name": "grue",
+      "type": "Keyword"
+    },
+    {
+      "id": "rupture de charge",
+      "name": "rupture de charge",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_6",
+      "name": "Modernisation des communications et méthodes de calcul",
+      "type": "Event",
+      "description": "Transition des téléphones à manivelle vers la radio, et remplacement des méthodes empiriques des chefs de chantier par des calculs scientifiques de centre de gravité imposés par les assurances.",
+      "time": "Avant 1970 - Milieu des années 1970"
+    },
+    {
+      "id": "Pontonniers",
+      "name": "Pontonniers",
+      "type": "Person"
+    },
+    {
+      "id": "Pied de grue",
+      "name": "Pied de grue",
+      "type": "Place"
+    },
+    {
+      "id": "Bureaux de calcul",
+      "name": "Bureaux de calcul",
+      "type": "Place"
+    },
+    {
+      "id": "communication",
+      "name": "communication",
+      "type": "Keyword"
+    },
+    {
+      "id": "modernisation",
+      "name": "modernisation",
+      "type": "Keyword"
+    },
+    {
+      "id": "ingénierie",
+      "name": "ingénierie",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_7",
+      "name": "Échanges technologiques avec Sud-Aviation",
+      "type": "Event",
+      "description": "Déplacement technique sur le site du Concorde pour étudier les méthodes de dessin de précision sur panneaux utilisées dans l'aéronautique.",
+      "time": "Années 1960 (Développement du Concorde)"
+    },
+    {
+      "id": "Sud-Aviation",
+      "name": "Sud-Aviation",
+      "type": "Place"
+    },
+    {
+      "id": "Concorde",
+      "name": "Concorde",
+      "type": "Keyword"
+    },
+    {
+      "id": "transfert de technologie",
+      "name": "transfert de technologie",
+      "type": "Keyword"
+    },
+    {
+      "id": "aéronautique",
+      "name": "aéronautique",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_8",
+      "name": "Fermeture des chantiers de Nantes et transfert à Saint-Nazaire",
+      "type": "Event",
+      "description": "Fin de l'activité navale à Nantes entraînant la mutation de Gilles Hammon vers les bureaux d'études de Saint-Nazaire.",
+      "time": "Vers 1978"
+    },
+    {
+      "id": "Saint-Nazaire",
+      "name": "Saint-Nazaire",
+      "type": "Place"
+    },
+    {
+      "id": "fermeture",
+      "name": "fermeture",
+      "type": "Keyword"
+    },
+    {
+      "id": "mutation",
+      "name": "mutation",
+      "type": "Keyword"
+    },
+    {
+      "id": "aménagement",
+      "name": "aménagement",
+      "type": "Keyword"
+    },
+    {
+      "id": "event_9",
+      "name": "Informatisation du bureau d'études",
+      "type": "Event",
+      "description": "Transition finale de la carrière vers la conception assistée par ordinateur (CAO) pour le développement des tôles.",
+      "time": "Fin de carrière (Années 1980-1990)"
+    },
+    {
+      "id": "informatique",
+      "name": "informatique",
+      "type": "Keyword"
+    },
+    {
+      "id": "CAO",
+      "name": "CAO",
+      "type": "Keyword"
+    },
+    {
+      "id": "traceur",
+      "name": "traceur",
+      "type": "Keyword"
+    }
+  ],
+  "edges": [
+    {
+      "id": "actor_0_Gilles Hammon",
+      "source": "Gilles Hammon",
+      "target": "event_0",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_0_Nantes",
+      "source": "event_0",
+      "target": "Nantes",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_0_Chantier de la Bretagne",
+      "source": "event_0",
+      "target": "Chantier de la Bretagne",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_0_embauche",
+      "source": "event_0",
+      "target": "embauche",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_0_apprentissage",
+      "source": "event_0",
+      "target": "apprentissage",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_0_construction navale",
+      "source": "event_0",
+      "target": "construction navale",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_1_Jean Penot",
+      "source": "Jean Penot",
+      "target": "event_1",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_1_Entreprise Montalev",
+      "source": "Entreprise Montalev",
+      "target": "event_1",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_1_Nantes",
+      "source": "event_1",
+      "target": "Nantes",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_1_Chantier de la Loire",
+      "source": "event_1",
+      "target": "Chantier de la Loire",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_1_Avenue Antonin-la-Bretagne",
+      "source": "event_1",
+      "target": "Avenue Antonin-la-Bretagne",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_1_grue jaune",
+      "source": "event_1",
+      "target": "grue jaune",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_1_engin de levage",
+      "source": "event_1",
+      "target": "engin de levage",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_1_renforcement",
+      "source": "event_1",
+      "target": "renforcement",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_1_béton",
+      "source": "event_1",
+      "target": "béton",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_2_Traceurs",
+      "source": "Traceurs",
+      "target": "event_2",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_2_Chefs de chantier",
+      "source": "Chefs de chantier",
+      "target": "event_2",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_2_Syndicats",
+      "source": "Syndicats",
+      "target": "event_2",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_2_Chantiers navals",
+      "source": "event_2",
+      "target": "Chantiers navals",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_2_Bureaux des pleurs",
+      "source": "event_2",
+      "target": "Bureaux des pleurs",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_2_chronométrage",
+      "source": "event_2",
+      "target": "chronométrage",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_2_marchandage",
+      "source": "event_2",
+      "target": "marchandage",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_2_syndicalisme",
+      "source": "event_2",
+      "target": "syndicalisme",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_2_productivité",
+      "source": "event_2",
+      "target": "productivité",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_3_Gilles Hammon",
+      "source": "Gilles Hammon",
+      "target": "event_3",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_3_Nantes",
+      "source": "event_3",
+      "target": "Nantes",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_3_IVET",
+      "source": "event_3",
+      "target": "IVET",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_3_Bureaux d'études",
+      "source": "event_3",
+      "target": "Bureaux d'études",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_3_formation",
+      "source": "event_3",
+      "target": "formation",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_3_promotion",
+      "source": "event_3",
+      "target": "promotion",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_3_dessin technique",
+      "source": "event_3",
+      "target": "dessin technique",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_3_traçage",
+      "source": "event_3",
+      "target": "traçage",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_3_précision",
+      "source": "event_3",
+      "target": "précision",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_4_Chantiers Dubigeon",
+      "source": "Chantiers Dubigeon",
+      "target": "event_4",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_4_Nantes",
+      "source": "event_4",
+      "target": "Nantes",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_4_Chantenay",
+      "source": "event_4",
+      "target": "Chantenay",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_4_fusion",
+      "source": "event_4",
+      "target": "fusion",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_4_Dubigeon",
+      "source": "event_4",
+      "target": "Dubigeon",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_4_industrie navale",
+      "source": "event_4",
+      "target": "industrie navale",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_5_Gilles Hammon",
+      "source": "Gilles Hammon",
+      "target": "event_5",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_5_Grutiers",
+      "source": "Grutiers",
+      "target": "event_5",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_5_Élingueurs",
+      "source": "Élingueurs",
+      "target": "event_5",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_5_Atelier de traçage",
+      "source": "event_5",
+      "target": "Atelier de traçage",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_5_Quais",
+      "source": "event_5",
+      "target": "Quais",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_5_Chantier naval",
+      "source": "event_5",
+      "target": "Chantier naval",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_5_accident",
+      "source": "event_5",
+      "target": "accident",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_5_sécurité",
+      "source": "event_5",
+      "target": "sécurité",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_5_levage",
+      "source": "event_5",
+      "target": "levage",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_5_grue",
+      "source": "event_5",
+      "target": "grue",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_5_rupture de charge",
+      "source": "event_5",
+      "target": "rupture de charge",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_6_Chefs de chantier",
+      "source": "Chefs de chantier",
+      "target": "event_6",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_6_Bureaux d'études",
+      "source": "Bureaux d'études",
+      "target": "event_6",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "actor_6_Pontonniers",
+      "source": "Pontonniers",
+      "target": "event_6",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_6_Pied de grue",
+      "source": "event_6",
+      "target": "Pied de grue",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_6_Bureaux de calcul",
+      "source": "event_6",
+      "target": "Bureaux de calcul",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_6_communication",
+      "source": "event_6",
+      "target": "communication",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_6_modernisation",
+      "source": "event_6",
+      "target": "modernisation",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_6_sécurité",
+      "source": "event_6",
+      "target": "sécurité",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_6_ingénierie",
+      "source": "event_6",
+      "target": "ingénierie",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_7_Gilles Hammon",
+      "source": "Gilles Hammon",
+      "target": "event_7",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_7_Sud-Aviation",
+      "source": "event_7",
+      "target": "Sud-Aviation",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_7_Concorde",
+      "source": "event_7",
+      "target": "Concorde",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_7_transfert de technologie",
+      "source": "event_7",
+      "target": "transfert de technologie",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_7_aéronautique",
+      "source": "event_7",
+      "target": "aéronautique",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_8_Gilles Hammon",
+      "source": "Gilles Hammon",
+      "target": "event_8",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_8_Nantes",
+      "source": "event_8",
+      "target": "Nantes",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "place_8_Saint-Nazaire",
+      "source": "event_8",
+      "target": "Saint-Nazaire",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_8_fermeture",
+      "source": "event_8",
+      "target": "fermeture",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_8_mutation",
+      "source": "event_8",
+      "target": "mutation",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_8_aménagement",
+      "source": "event_8",
+      "target": "aménagement",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "actor_9_Gilles Hammon",
+      "source": "Gilles Hammon",
+      "target": "event_9",
+      "type": "PARTICIPATED_IN"
+    },
+    {
+      "id": "place_9_Saint-Nazaire",
+      "source": "event_9",
+      "target": "Saint-Nazaire",
+      "type": "HAPPENED_IN"
+    },
+    {
+      "id": "keyword_9_informatique",
+      "source": "event_9",
+      "target": "informatique",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_9_CAO",
+      "source": "event_9",
+      "target": "CAO",
+      "type": "HAS_TOPIC"
+    },
+    {
+      "id": "keyword_9_traceur",
+      "source": "event_9",
+      "target": "traceur",
+      "type": "HAS_TOPIC"
+    }
+  ]
+}
