@@ -141,7 +141,7 @@ fill:#111;
 
 <script>
 
-const graphData = __GRAPH_DATA__;
+d3.json("graph.json").then(function(graphData) {
 
 const width = 1400;
 const height = 900;
@@ -386,7 +386,7 @@ miniNodes
 .attr("cx",d=>d.x/5)
 .attr("cy",d=>d.y/5);
 
-}
+}}
 
 </script>
 
